@@ -1,2 +1,2 @@
-# NewWave
-HR application
+NewWave 
+This is our group project 
