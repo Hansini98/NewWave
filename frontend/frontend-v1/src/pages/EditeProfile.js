@@ -9,7 +9,6 @@ import { axiosInstance } from "../services/service";
 import { useEffect, useState } from "react";
 import employeeService from "../services/employeeService";
 import { useHistory } from "react-router";
-
 export const EditeProfile = () => {
   const [user, setUser] = useState();
   const history = useHistory()
