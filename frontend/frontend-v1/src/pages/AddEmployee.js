@@ -6,7 +6,6 @@ import { Col } from "react-bootstrap";
 import { useForm } from "react-hook-form";
 import EmployeeService from "../services/employeeService";
 import employeeService from "../services/employeeService";
-
 function AddEmployee(props) {
   const { register, handleSubmit, errors } = useForm();
 
