@@ -1,3 +1,4 @@
+#Addproperties
 package codebrigade.lms.v1.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
